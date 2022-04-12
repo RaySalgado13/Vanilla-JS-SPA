@@ -31,6 +31,9 @@ $ npm start
 ~~~
 
 * Use index.js as the Express js backend entry point
+  
+ ## UML
+![Image text](/public/assets/uml.png)
 
 
 
